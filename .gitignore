@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Datos (no queremos subir CSV/Excels pesados a GitHub)
+
+*.CSV
+*.xlsx
+data/output/
+
+# Entorno de desarrollo
+.vscode/
+.idea/
