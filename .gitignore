@@ -1,3 +1,9 @@
+chromedriver.exe
+__pycache__/
+data/output/*.xlsx
+.env
+.wdm/
+
 # Python
 __pycache__/
 *.py[cod]
